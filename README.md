@@ -102,7 +102,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgments
 - **Power BI Community**: For extensive documentation and resources.
-- **Construction Industry Experts**: For insights into key metrics and dashboard requirements.
 - The resources from "Power BI for Construction Project Managers: Visualizing Your Data Like a Pro" and "Business Intelligence for Construction Project Managers Visualization."
 
 

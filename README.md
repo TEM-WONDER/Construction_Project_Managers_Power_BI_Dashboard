@@ -1,6 +1,6 @@
  # Construction Project Managers Power BI Dashboard
 
-pdf and photo/Dashboard photo.JPG
+![alt text](pdf_photo/Dashboard_photo.JPG)
 
 ## Overview
 The **Construction Project Managers Power BI Dashboard** A visualization of project metrics for a construction company, designed to enhance efficiency and situational awareness for project managers and stakeholders. This tool empowers stakeholders with actionable insights, enabling informed and effective decision-making across all tasks and projects. Is a comprehensive Power BI project designed to empower construction project managers by providing real-time insights into their projects. This dashboard offers data-driven visualizations to track budgets, tasks, projects, and overall performance, enabling effective decision-making and efficient project management.
@@ -74,7 +74,7 @@ To use this dashboard, ensure you have:
 - **Construction_Project_Managers_Power_BI_Dashboard.pbix**: Main Power BI report file.
 - **Data**: data files.
 - **README.md**: Documentation file.
-- **Business Intelligence for Construction Project Managers Visualization.pdf**: visualizations in pdf.
+- **Construction_Project_Managers_Power_BI_Dashboard.pdf**: visualizations in pdf.
 
 
 ---
